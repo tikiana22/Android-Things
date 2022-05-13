@@ -35,3 +35,5 @@ The program works in the following way:
     if the data in the recording sounds like a clap (a very short sound with a high pitch), then it will display a message to notify the user that a clap was detected and, eventually, play a clap sound
   </li>
 </ul>
+
+[Demo video](https://drive.google.com/file/d/15e6pFKUBUOGSAMBRIkujVEeyaV_vNnaT/view?usp=sharing)
