@@ -46,3 +46,8 @@ The program works in the following way:
 ![Recording Stop and Graph](https://github.com/tikiana22/Android-Things/blob/main/Screenshot22.jpg)
 ![Clap detection success](https://github.com/tikiana22/Android-Things/blob/main/Screenshot24.jpg)
 
+## Diagram
+
+![Diagram](https://github.com/tikiana22/Android-Things/blob/main/RaspberryPiDiagram-01.jpg)
+
+
