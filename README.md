@@ -37,3 +37,12 @@ The program works in the following way:
 </ul>
 
 [Demo video](https://drive.google.com/file/d/15e6pFKUBUOGSAMBRIkujVEeyaV_vNnaT/view?usp=sharing)
+
+
+## Demo photos
+
+![Initializtion Image](https://github.com/tikiana22/Android-Things/blob/main/Screenshot19.jpg)
+![Baseline Graph](https://github.com/tikiana22/Android-Things/blob/main/Screenshot20.jpg)
+![Recording Stop and Graph](https://github.com/tikiana22/Android-Things/blob/main/Screenshot22.jpg)
+![Clap detection success](https://github.com/tikiana22/Android-Things/blob/main/Screenshot24.jpg)
+
